@@ -1,5 +1,4 @@
 # Spike_desafio
-ombatiendo el cambio climático con Machine Learning!
 
 El presente repositorio cuenta con mis respuestas para el desafío Spike Octubre 2019 - Predicción de caudales extremos en Chile. 
 
